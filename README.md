@@ -56,8 +56,8 @@ This repository is licensed under the MIT License — free to use, learn, and sh
 
 _Basics, I/O, variables, arithmetic_
 
-1. **Hello, World** — print exactly `"Ola, Mundo!"`.
-2. **Simple Sum (formatted)** — read two integers and print `SOMA = X`.
+1. **Hello, World** — print exactly `"Hello, World!"`.
+2. **Simple Sum (formatted)** — read two integers and print `SUM = X`.
 3. **Difference & Product** — read two integers; print their difference and product (two lines).
 4. **Average of Three** — read 3 floats; print average with 2 decimals.
 5. **Temperature Converter** — C → F using `F = C * 9/5 + 32`.
